@@ -1,10 +1,10 @@
-# Anirudhsudhir Anna
+# Anna
 
 ## How do I install these formulae?
 
-`brew install anirudhsudhir/anna/<formula>`
+`brew install anirudhsudhir/anna/anna`
 
-Or `brew tap anirudhsudhir/anna` and then `brew install <formula>`.
+Or `brew tap anirudhsudhir/anna` and then `brew install anna`.
 
 ## Documentation
 
