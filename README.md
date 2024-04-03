@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install anirudhsudhir/anna/anna`
+`brew install anna-ssg/anna/anna`
 
-Or `brew tap anirudhsudhir/anna` and then `brew install anna`.
+Or `brew tap anna-ssg/anna` and then `brew install anna`.
 
 ## Documentation
 
