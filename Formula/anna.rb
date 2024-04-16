@@ -4,8 +4,8 @@
 class Anna < Formula
   desc "Static Site Generator in Go"
   homepage "https://anna-docs.netlify.app"
-  url "https://github.com/acmpesuecc/anna/releases/download/v1.0.0-alpha/anna_Darwin_arm64.tar.gz"
-  sha256 "d45f626fc6e23ae65eb5fec94fcc387fb70ea3600d2f89a4082aa6560f595e14"
+  url "https://github.com/acmpesuecc/anna/releases/download/v2.0.0/anna_Darwin_arm64.tar.gz"
+  sha256 "c67a04297bb5a31c8314f65f652fa327026f5d525b2a9540e2acbe54e1af288d"
   license "MIT"
 
   depends_on "gh"
